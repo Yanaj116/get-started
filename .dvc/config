@@ -1,0 +1,7 @@
+[core]
+    remote = ecs
+['remote "ecs"']
+    url = ssh://123.56.152.39/root/dvc
+    user = root
+    port = 22
+    password = Yaj19980918@
